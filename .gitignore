@@ -5,11 +5,9 @@
 **/mcts
 **/beam
 **/figures
-CONFIG.py
 *.png
 *.out
 **/output
-CONFIG.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
